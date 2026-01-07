@@ -1,10 +1,3 @@
-Great work on the dashboard 👏
-Below is a **clean, professional, GitHub-ready README** tailored to **your exact project**, tools (**SQL + Power BI**), and the dashboard you shared.
-
-You can copy-paste this directly into `README.md`.
-
----
-
 # 📊 Customer Churn Analysis Dashboard (SQL + Power BI)
 
 ## 📌 Project Overview
