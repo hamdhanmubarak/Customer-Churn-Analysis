@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis Dashboard (SQL + Power BI)
+# 📊 Amazon's Subscription Churn Analysis Dashboard (SQL + Power BI)
 
 ## 📌 Project Overview
 
